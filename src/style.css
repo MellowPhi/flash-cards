@@ -1,0 +1,31 @@
+.game-board {
+    display: grid;
+    grid-template-rows: 200px 200px 200px;
+    grid-template-columns: 200px 200px 200px;
+    justify-content: center;
+    margin: 40px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: #434d54;
+    text-align: center;
+}
+
+body {
+    background-image: url('/imgs/world.png');
+    background-size: cover;
+    justify-content: center;
+}
+
+.box {
+    background: #444;
+    border: 1px solid #555;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #FCB8AF;
+    color:#7289da
+}
