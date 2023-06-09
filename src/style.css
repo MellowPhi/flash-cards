@@ -3,7 +3,7 @@ body {
 }
 
 .cardBlock {
-    background: linear-gradient(to bottom, #ffbdbd 21%, #f1cbff 128%);
+    background: linear-gradient(to bottom, #00AEEF 21%, #f1cbff 128%);
     background-size: cover;
     display: flex;
     flex-direction: column;
