@@ -31,8 +31,8 @@ body {
     height: 180px;
     margin: 5px;
     border-color: #3a3a3a;
-    font-family: "Helvetica Neue", sans-serif;
-    font-size: 15px;
+    font-family: "Ropa Sans";
+    font-size: 21px;
     position: relative;
     transition: all 1s linear;
     transform-style: preserve-3d;
@@ -70,6 +70,7 @@ body {
     transform: rotateY(180deg) rotateZ(90deg);
 }
 .card-container:hover .card {
+    cursor: pointer;
     transform: rotateY(180deg) rotateZ(90deg);
 }
 
