@@ -7,6 +7,7 @@ Using simple vanilla, HTML and CSS to create a simple flashcards
 
 ![flashcards-demo](https://github.com/MellowPhi/flash-cards/assets/48370987/1b130cad-019f-4619-b56f-0328b735f513)
 
+[Click here for a live demo](https://raw.githack.com/lirad/html-forms/features/index.html)
 
 ### TODO
 
