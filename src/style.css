@@ -1,11 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    /*background-image: url("../imgs/world.png");*/
-    /*background-size: cover;*/
-    /*background-size: 100% 100%;*/
-    /*height: 100%;*/
-    /*position: relative;*/
 }
 
 
@@ -13,8 +8,11 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     background: linear-gradient(to bottom, #ffafcc 21%, #a2d2ff 128%);
-    background-size: 100% 100%;
+    height: 100vh;
+    width: 100vw;
+
 }
 
 .flex-container {
@@ -46,12 +44,11 @@ body {
 .back {
     height: 100%;
     width: 100%;
-    /*border-radius: 2rem;*/
+    border-radius: 1rem;
     /*box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);*/
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 15px;
     position: absolute;
 
 }
